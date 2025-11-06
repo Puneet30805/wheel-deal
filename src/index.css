@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+body {
+    font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,24 @@
+.location-selector {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.location-tab {
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  background-color: #e5e7eb;
+  color: #1f2937;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.location-tab:hover {
+  background-color: #d1d5db;
+}
+
+.location-tab.active {
+  background-color: #2563eb;
+  color: white;
+}

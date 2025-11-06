@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "heading": "CONICE SEGE",
+    "description": "Aggressive style with unmatched power",
+    "price": "$133 USD",
+    "image": "/public/model6.jpg"
+  },
+  {
+    "id": 2,
+    "heading": "LUXURY CRUISER",
+    "description": "Perfect for long drives and smooth performance",
+    "price": "$220 USD",
+    "image": "/public/model2.jpg"
+  },
+  {
+    "id": 3,
+    "heading": "URBAN DASHER",
+    "description": "Compact design ideal for city rides",
+    "price": "$98 USD",
+    "image": "/public/model3.jpg"
+  },
+  {
+    "id": 4,
+    "heading": "NIGHT HAWK",
+    "description": "Powerful engine with a sleek black finish",
+    "price": "$310 USD",
+    "image": "/public/model6.jpg"
+  },
+  {
+    "id": 5,
+    "heading": "ECO GLIDER",
+    "description": "Eco-friendly and efficient, perfect for daily use",
+    "price": "$150 USD",
+    "image": "/public/hero.jpg"
+  },
+  {
+    "id": 6,
+    "heading": "SUNSET RIDER",
+    "description": "Enjoy relaxing rides during golden hours",
+    "price": "$175 USD",
+    "image": "/images/model6.jpg"
+  }
+]
