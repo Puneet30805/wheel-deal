@@ -8,7 +8,9 @@ export default defineConfig({
   plugins: [react(),
     nodePolyfills(),
     tailwindcss(),
+    
   ],
+   base: '/wheeldeal/', 
  
   define: {
     'process.env': JSON.stringify({}),

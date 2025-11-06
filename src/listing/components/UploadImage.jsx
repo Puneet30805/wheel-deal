@@ -1,9 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { IoMdCloseCircle } from "react-icons/io";
 import { toast } from "react-hot-toast";
-import { db } from "../../configs"; // ✅ adjust your path
-import { CarImages } from "./../../configs/schema"; // ✅ your image table schema
-
+import { db } from "./../../../configs"; import { CarImages } from "./../../../configs/schema";
 function UploadImage({ triggerUploadImage }) {
   const [uploadedUrls, setUploadedUrls] = useState([]);
   const [isUploading, setIsUploading] = useState(false);
